@@ -1,11 +1,11 @@
 
-B
-starcom/.gitignore,9\2\92858315f9cff8fb344940ef67bb6bcd75b93f77
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-l
-<starcom/src/main/java/com/sc/starcom/ServletInitializer.java,9\6\96b08d4e1ef66cc4996836190bbb5269867500b0
-l
-<starcom/src/main/java/com/sc/starcom/StarcomApplication.java,a\1\a18af063ba17a9639996f374e15a5e04305c391b
-^
-.starcom/src/main/java/com/sc/starcom/test.java,c\4\c476bde7d48585ebc2a0e5ca9b0aad8b6c591aed
+z
+Jstarcom/src/main/java/com/sc/starcom/admin/controller/adminController.java,e\d\edfb852a3c20fa1182ae816b7c97c104720c98db
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+N
+.idea/modules/starcom.test.iml,5\5\556ed8c1fbdf4a18e665e43cc2185d4d9b887a99
+N
+.idea/modules/starcom.main.iml,5\6\56a2636980729a3e22cfe896b51420084f6737c1
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
