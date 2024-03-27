@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/STARCOM.iml" filepath="$PROJECT_DIR$/.idea/STARCOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/starcom.iml" filepath="$PROJECT_DIR$/.idea/starcom.iml" />
     </modules>
   </component>
 </project>
