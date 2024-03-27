@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../starcom" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../starcom/src" isTestSource="false" />
+    </content>
+  </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="bb448f9c-a029-4abc-a260-eff5a8e7f442" />
   </component>
