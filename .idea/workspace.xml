@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9536999f-2085-4929-a758-5f026b7b8ea0" name="변경" comment="dd">
+    <list default="true" id="9536999f-2085-4929-a758-5f026b7b8ea0" name="변경" comment="메인으로 포워딩">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7873b9a2a9f2158d85509695759dd9f794a85394" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7d7b13cdf1264e82ded69fea28a868223f174d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/8/7873b9a2a9f2158d85509695759dd9f794a85394" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d7d7b13cdf1264e82ded69fea28a868223f174d9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/starcom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/starcom.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/starcom.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/starcom.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/board/model/vo/Reply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/StarcomApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/StarcomApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/common/controller/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/common/controller/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/resources/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/resources/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/views/admin/adminMainPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/webapp/WEB-INF/views/admin/adminMainPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/views/board/boardListView.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/webapp/WEB-INF/views/board/boardListView.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/views/common/404page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/webapp/WEB-INF/views/common/404page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/views/common/Main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/views/member/memberEnrollForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/webapp/WEB-INF/views/member/memberEnrollForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +62,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,26 +101,47 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.starcom 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;Spring Boot.StarcomApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/StarCom/starcom/src/main/web&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;패싯&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22873563&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
+    ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\StarCom\starcom\src\main\resources\resources" />
+      <recent name="C:\StarCom\starcom\src\main\webapp\WEB-INF\resources" />
+      <recent name="C:\StarCom\starcom\src\main\webapp\static" />
+      <recent name="C:\StarCom\starcom\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\StarCom\starcom\src\main\webapp" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="StarcomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -136,8 +180,10 @@
       <workItem from="1711608207721" duration="466000" />
       <workItem from="1711610025262" duration="460000" />
       <workItem from="1711610493953" duration="98000" />
-      <workItem from="1711611548702" duration="70000" />
-      <workItem from="1711611637482" duration="794000" />
+      <workItem from="1711612826964" duration="4069000" />
+      <workItem from="1711641241949" duration="519000" />
+      <workItem from="1711641765095" duration="5800000" />
+      <workItem from="1711647582621" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="안녕하세요">
       <option name="closed" value="true" />
@@ -147,23 +193,47 @@
       <option name="project" value="LOCAL" />
       <updated>1711610114447</updated>
     </task>
-    <task id="LOCAL-00002" summary="dd">
+    <task id="LOCAL-00002" summary="Common생성">
       <option name="closed" value="true" />
-      <created>1711611748314</created>
+      <created>1711612800933</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1711611748314</updated>
+      <updated>1711612800933</updated>
     </task>
-    <task id="LOCAL-00003" summary="dd">
+    <task id="LOCAL-00003" summary="멤버 객체 추가">
       <option name="closed" value="true" />
-      <created>1711612238571</created>
+      <created>1711612905011</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1711612238571</updated>
+      <updated>1711612905011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="서버 설정 및 의존성 추가">
+      <option name="closed" value="true" />
+      <created>1711615383711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711615383711</updated>
+    </task>
+    <task id="LOCAL-00005" summary="메인으로 포워딩">
+      <option name="closed" value="true" />
+      <created>1711615971765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711615971765</updated>
+    </task>
+    <task id="LOCAL-00006" summary="메인으로 포워딩">
+      <option name="closed" value="true" />
+      <created>1711642539888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711642539888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,8 +252,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="안녕하세요" />
-    <MESSAGE value="dd" />
-    <option name="LAST_COMMIT_MESSAGE" value="dd" />
+    <MESSAGE value="Common생성" />
+    <MESSAGE value="멤버 객체 추가" />
+    <MESSAGE value="서버 설정 및 의존성 추가" />
+    <MESSAGE value="메인으로 포워딩" />
+    <option name="LAST_COMMIT_MESSAGE" value="메인으로 포워딩" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
