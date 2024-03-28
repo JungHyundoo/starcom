@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>StarCom - 스타크래프트 커뮤니티</title>
 </head>
 <body>
 
