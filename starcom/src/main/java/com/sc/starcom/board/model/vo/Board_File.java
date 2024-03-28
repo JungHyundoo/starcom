@@ -1,6 +1,4 @@
 package com.sc.starcom.board.model.vo;
 
-public class Reply {
-
-
+public class Board_File {
 }
