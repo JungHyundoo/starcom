@@ -11,7 +11,7 @@ import lombok.ToString;
 @ToString
 public class Member {
 
-    private int memberNo;
-    private String memberName;
+    private int memberNo; // 회원번호
+    private String memberName; // 회원이름
 
 }
