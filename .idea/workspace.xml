@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9536999f-2085-4929-a758-5f026b7b8ea0" name="변경" comment="안녕하세요">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="9536999f-2085-4929-a758-5f026b7b8ea0" name="변경" comment="dd">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/vo/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/vo/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/board/model/vo/Reply.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,7 @@
     &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -136,6 +136,8 @@
       <workItem from="1711608207721" duration="466000" />
       <workItem from="1711610025262" duration="460000" />
       <workItem from="1711610493953" duration="98000" />
+      <workItem from="1711611548702" duration="70000" />
+      <workItem from="1711611637482" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="안녕하세요">
       <option name="closed" value="true" />
@@ -145,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711610114447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dd">
+      <option name="closed" value="true" />
+      <created>1711611748314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711611748314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dd">
+      <option name="closed" value="true" />
+      <created>1711612238571</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711612238571</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +182,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="안녕하세요" />
-    <option name="LAST_COMMIT_MESSAGE" value="안녕하세요" />
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
