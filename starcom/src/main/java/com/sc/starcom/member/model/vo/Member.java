@@ -12,5 +12,6 @@ import lombok.ToString;
 public class Member {
 
     private int memberNo;
+    private String memberName;
 
 }
