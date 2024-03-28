@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9536999f-2085-4929-a758-5f026b7b8ea0" name="변경" comment="안녕하세요">
       <change beforePath="$PROJECT_DIR$/.idea/STARCOM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/STARCOM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/admin/controller/adminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/admin/controller/adminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/dao/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/dao/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/vo/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcom/src/main/java/com/sc/starcom/member/model/vo/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -83,19 +88,29 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Java/jdk-17&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22873563&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="StarcomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="starcom.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sc.starcom.StarcomApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -118,6 +133,13 @@
       <workItem from="1711533550957" duration="58000" />
       <workItem from="1711607203799" duration="80000" />
       <workItem from="1711607293504" duration="15000" />
+      <workItem from="1711607457930" duration="9000" />
+      <workItem from="1711607514343" duration="7000" />
+      <workItem from="1711607560036" duration="207000" />
+      <workItem from="1711607770071" duration="167000" />
+      <workItem from="1711607945272" duration="589000" />
+      <workItem from="1711608544512" duration="68000" />
+      <workItem from="1711608615001" duration="341000" />
     </task>
     <servers />
   </component>
@@ -127,5 +149,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="안녕하세요" />
     <option name="LAST_COMMIT_MESSAGE" value="안녕하세요" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
